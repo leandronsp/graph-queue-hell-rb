@@ -1,6 +1,6 @@
 # graph-queue-hell-rb
 
-This project is a sample Ruby Rack application using GraphQL for learning purpose.
+This project is a sample Ruby Rack application using GraphQL.
 
 ## Development
 
